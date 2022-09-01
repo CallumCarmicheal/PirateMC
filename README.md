@@ -1,3 +1,15 @@
+# PirateMC
+
+This is a fork of PolyMC that allows for the downloading of all mods from CurseForge by scraping the download url where applicable. 
+Why? Because I'm using adblock anyway so even loading the website will do nothing, this is just wasting my time and yours. 
+
+<p align="center">
+  <img src="./program_info/piratemc-logo-fixed.svg#gh-light-mode-only" alt="PolyMC logo" width="100%"/>
+</p>
+
+# Original PolyMC
+
+
 <p align="center">
 <img src="./program_info/polymc-header-black.svg#gh-light-mode-only" alt="PolyMC logo" width="50%"/>
 <img src="./program_info/polymc-header.svg#gh-dark-mode-only" alt="PolyMC logo" width="50%"/>
