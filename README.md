@@ -1,7 +1,8 @@
 # PirateMC
 
 <p align="center">
-  <img src="./program_info/piratemc-logo-fixed.svg" alt="PolyMC logo" width="50%"/>
+  <img src="./program_info/piratemc-logo-fixed.svg#gh-light-mode-only" alt="PolyMC logo" width="50%"/>
+  <img src="./program_info/piratemc-logo-fixed.svg#gh-dark-mode-only" alt="PolyMC logo" width="50%"/>
 </p>
 
 
